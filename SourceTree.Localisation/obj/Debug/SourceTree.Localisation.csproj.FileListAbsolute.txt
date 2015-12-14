@@ -1,0 +1,5 @@
+C:\Users\Cypher\Desktop\Localizacion SourceTree\SourceTree.Localisation\SourceTree.Localisation\bin\Debug\SourceTree.Localisation.dll
+C:\Users\Cypher\Desktop\Localizacion SourceTree\SourceTree.Localisation\SourceTree.Localisation\bin\Debug\SourceTree.Localisation.pdb
+C:\Users\Cypher\Desktop\Localizacion SourceTree\SourceTree.Localisation\SourceTree.Localisation\obj\Debug\SourceTree.Localisation.csprojResolveAssemblyReference.cache
+C:\Users\Cypher\Desktop\Localizacion SourceTree\SourceTree.Localisation\SourceTree.Localisation\obj\Debug\SourceTree.Localisation.dll
+C:\Users\Cypher\Desktop\Localizacion SourceTree\SourceTree.Localisation\SourceTree.Localisation\obj\Debug\SourceTree.Localisation.pdb
